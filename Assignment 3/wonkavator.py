@@ -1,5 +1,4 @@
 # Author: Eyas Hassan
-# McGill ID: 260776234
 # Assignment 3, Question 3
 
 # Note: Please add code only where indicated
