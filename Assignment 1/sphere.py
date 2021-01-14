@@ -1,5 +1,4 @@
 # Author: [Eyas Hassan]
-# McGill ID: [260776234]
 # Assignment 1, Question 3
 
 from math import * # imports all varialbes/functions from the math module
