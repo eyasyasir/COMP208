@@ -1,5 +1,4 @@
 # Author: [Eyas Hassan]
-# McGill ID: [260776234]
 # Assignment 1, Question 3
 
 import random
