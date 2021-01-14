@@ -1,5 +1,4 @@
 # Author: [Eyas Hassan]
-# McGill ID: [260776234]
 # Assignment 1, Question 4
 
 def vink_sequence(n, k ,j): # defining function vink_sequenct that takes argument n, k, j
