@@ -1,5 +1,4 @@
 # Author: [Eyas Hassan]
-# McGill ID: [260776234]
 # Assignment 1, Question 1
 
 def fetch(numbers): #function returning the smallest integer not in user_list or 1 if list is empty
