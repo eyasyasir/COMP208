@@ -1,5 +1,4 @@
 # Author: Eyas Hassan
-# McGill ID: 260776234
 # Assignment 3, Question 2
 
 import matplotlib.pyplot as plt
