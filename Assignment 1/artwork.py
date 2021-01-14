@@ -1,5 +1,4 @@
 # Author: [Eyas Hassan]
-# McGill ID: [260776234]
 # Assignment 1, Question 2
 
 from turtle import * # imports all functions from turtle module
