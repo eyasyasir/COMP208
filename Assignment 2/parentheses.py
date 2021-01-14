@@ -1,5 +1,4 @@
 # Author: [Eyas Hassan]
-# McGill ID: [260776234]
 # Assignment 1, Question 2
 
 def find_first(s, letter): #function which searches for first parenthesis '(' from left of string
